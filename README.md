@@ -36,19 +36,20 @@ This project demonstrates how I approach customer-facing AI solutions: **identif
 
 ## Selected public projects
 
-Seven projects highlighting my interests in machine learning, optimization, software engineering, cybersecurity and hardware design.
+Eight projects reflecting my interests in applied AI, solution engineering, optimization, software development and systems design.
 
 | Project | What it demonstrates |
 | --- | --- |
 | [**RFID Localization — Machine Learning**](https://github.com/samytaleb/RFID-Project) | UHF RFID localization from multi-antenna measurements, feature engineering, modeling and experimental evaluation. |
 | [**Minimum Inventory Optimization**](https://github.com/samytaleb/Optimization-of-Minimum-Inventory) | Operations research and Python-based optimization applied to inventory management. |
+| [**Azure RAG Presales Evaluation — Open-source Extension**](https://github.com/samytaleb/azure-rag-presales-demo) | Synthetic B2B scenarios, Python evaluation harness, answer-quality checks and reports built on Microsoft's Azure RAG sample. |
 | [**ECG Classification — Machine Learning**](https://github.com/samytaleb/Classification-Project-Machine-Learning) | ECG preprocessing, PCA, clustering and classification benchmarks with multiple machine-learning models. |
 | [**Supply Chain Optimization — Java**](https://github.com/samytaleb/Supply-Chain-Java-Project) | Scheduling optimization and heuristic approaches including BIBA, VND and LAHC. |
 | [**Tennis REST API — NestJS**](https://github.com/samytaleb/Web-Application-Project-Tennis-API) | Backend engineering, CRUD APIs and integration with a third-party sports data API. |
 | [**Multiplayer Chess Server — C**](https://github.com/samytaleb/C-Based-Chess-Game-Server) | TCP client–server architecture, concurrent games, chess-rule validation and automated tests. |
 | [**ASCON-128 — SystemVerilog Cryptographic Hardware**](https://github.com/samytaleb/ASCON-128-Project) | Hardware design in SystemVerilog, cryptographic architecture and RTL implementation with a simulation testbench. |
 
-Other areas I've explored include [reinforcement learning](https://github.com/samytaleb/Reinforcement-Learning), [time-series machine learning](https://github.com/samytaleb/Time-Series-Machine-Learning) and [interactive web applications](https://github.com/samytaleb/MBB-Preparation-guide).
+Across academic, personal and open-source work, I've explored diverse fields: [reinforcement learning](https://github.com/samytaleb/Reinforcement-Learning), [time-series machine learning](https://github.com/samytaleb/Time-Series-Machine-Learning), [network security](https://github.com/samytaleb/Network-Security-Project-II), [embedded robotics](https://github.com/samytaleb/Embedded-Robotics-Project), [IoT prototyping](https://github.com/samytaleb/IoT-Prototype-Design-Project) and [interactive web applications](https://github.com/samytaleb/MBB-Preparation-guide).
 
 ## Experience in brief
 
