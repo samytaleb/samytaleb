@@ -4,7 +4,7 @@
 
 I'm a **graduate engineer (M.Eng. in Data & Computer Science) from École des Mines de Saint-Étienne**, with a strong foundation in mathematics and physics from two years of intensive preparatory classes at **Lycée Saint-Louis (Paris)**.
 
-I enjoy turning complex problems into **usable, measurable technical solutions** — from understanding business needs and designing architectures to developing ML pipelines, integrating APIs, building prototypes, and demonstrating outcomes to stakeholders.
+I’m passionate about turning complex business challenges into **practical AI solutions that deliver measurable value**.
 
 📍 Paris, France · 🎯 **Open to Solution Engineer / AI Solution Engineer opportunities**
 
