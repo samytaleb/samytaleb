@@ -1,6 +1,6 @@
 # Hi, I'm Samy 👋
 
-**Applied AI & Solution Engineering | LLM Applications · Machine Learning · APIs · Data Systems**
+**Applied AI & Solution Engineering | LLMs · RAG · Machine Learning · APIs**
 
 I'm a final-year **Data & Computer Science engineering student at École des Mines de Saint-Étienne**, following two years of intensive mathematics and physics preparatory classes at **Lycée Saint-Louis (Paris)**.
 
@@ -17,16 +17,18 @@ I enjoy turning complex problems into **usable, measurable technical solutions**
 
 ## Selected public projects
 
-| Project | What it shows |
-| --- | --- |
-| [**RFID Localization — ML**](https://github.com/samytaleb/RFID-Project) | Modeling a real-world localization problem with multi-antenna measurements, feature engineering and evaluation. |
-| [**Machine Learning Classification — ECG**](https://github.com/samytaleb/Classification-Project-Machine-Learning) | End-to-end data preprocessing, PCA, clustering and supervised model benchmarking. |
-| [**Supply Chain Optimization — Java**](https://github.com/samytaleb/Supply-Chain-Java-Project) | Scheduling and heuristic optimization, including BIBA, VND and LAHC. |
-| [**Tennis REST API — NestJS**](https://github.com/samytaleb/Web-Application-Project-Tennis-API) | Backend development, CRUD endpoints and third-party API integration. |
-| [**Multiplayer Chess Server — C**](https://github.com/samytaleb/C-Based-Chess-Game-Server) | TCP client-server architecture, concurrency and game-rule validation. |
-| [**ASCON-128 Hardware Design**](https://github.com/samytaleb/ASCON-128-Project) | Cryptography-oriented RTL design in SystemVerilog. |
+These are the six projects I would highlight on my GitHub profile, covering machine learning, optimization and software engineering.
 
-Also exploring [reinforcement learning](https://github.com/samytaleb/Reinforcement-Learning), [time-series machine learning](https://github.com/samytaleb/Time-Series-Machine-Learning), and [interactive web applications](https://github.com/samytaleb/MBB-Preparation-guide).
+| Project | What it demonstrates |
+| --- | --- |
+| [**RFID Localization — Machine Learning**](https://github.com/samytaleb/RFID-Project) | UHF RFID localization from multi-antenna measurements, feature engineering, modeling and experimental evaluation. |
+| [**Minimum Inventory Optimization**](https://github.com/samytaleb/Optimization-of-Minimum-Inventory) | Operations research and Python-based optimization applied to inventory management. |
+| [**ECG Classification — Machine Learning**](https://github.com/samytaleb/Classification-Project-Machine-Learning) | ECG preprocessing, PCA, clustering and classification benchmarks with multiple machine-learning models. |
+| [**Supply Chain Optimization — Java**](https://github.com/samytaleb/Supply-Chain-Java-Project) | Scheduling optimization and heuristic approaches including BIBA, VND and LAHC. |
+| [**Tennis REST API — NestJS**](https://github.com/samytaleb/Web-Application-Project-Tennis-API) | Backend engineering, CRUD APIs and integration with a third-party sports data API. |
+| [**Multiplayer Chess Server — C**](https://github.com/samytaleb/C-Based-Chess-Game-Server) | TCP client–server architecture, concurrent games, chess-rule validation and automated tests. |
+
+Other areas I've explored include [reinforcement learning](https://github.com/samytaleb/Reinforcement-Learning), [time-series machine learning](https://github.com/samytaleb/Time-Series-Machine-Learning), [cryptographic hardware design](https://github.com/samytaleb/ASCON-128-Project) and [interactive web applications](https://github.com/samytaleb/MBB-Preparation-guide).
 
 ## Experience in brief
 
