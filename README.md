@@ -17,7 +17,7 @@ I enjoy turning complex problems into **usable, measurable technical solutions**
 
 ## Selected public projects
 
-These are the six projects I would highlight on my GitHub profile, covering machine learning, optimization and software engineering.
+Seven projects highlighting my interests in machine learning, optimization, software engineering, cybersecurity and hardware design.
 
 | Project | What it demonstrates |
 | --- | --- |
@@ -27,8 +27,9 @@ These are the six projects I would highlight on my GitHub profile, covering mach
 | [**Supply Chain Optimization — Java**](https://github.com/samytaleb/Supply-Chain-Java-Project) | Scheduling optimization and heuristic approaches including BIBA, VND and LAHC. |
 | [**Tennis REST API — NestJS**](https://github.com/samytaleb/Web-Application-Project-Tennis-API) | Backend engineering, CRUD APIs and integration with a third-party sports data API. |
 | [**Multiplayer Chess Server — C**](https://github.com/samytaleb/C-Based-Chess-Game-Server) | TCP client–server architecture, concurrent games, chess-rule validation and automated tests. |
+| [**ASCON-128 — SystemVerilog Cryptographic Hardware**](https://github.com/samytaleb/ASCON-128-Project) | Hardware design in SystemVerilog, cryptographic architecture and RTL implementation with a simulation testbench. |
 
-Other areas I've explored include [reinforcement learning](https://github.com/samytaleb/Reinforcement-Learning), [time-series machine learning](https://github.com/samytaleb/Time-Series-Machine-Learning), [cryptographic hardware design](https://github.com/samytaleb/ASCON-128-Project) and [interactive web applications](https://github.com/samytaleb/MBB-Preparation-guide).
+Other areas I've explored include [reinforcement learning](https://github.com/samytaleb/Reinforcement-Learning), [time-series machine learning](https://github.com/samytaleb/Time-Series-Machine-Learning) and [interactive web applications](https://github.com/samytaleb/MBB-Preparation-guide).
 
 ## Experience in brief
 
