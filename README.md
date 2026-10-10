@@ -15,6 +15,15 @@ I enjoy turning complex problems into **usable, measurable technical solutions**
 - **Data engineering & analytics:** ETL, Snowflake, data modeling, forecasting, dashboards and automation.
 - **Engineering foundations:** algorithms, optimization, systems programming, networking, cybersecurity and embedded systems.
 
+## Professional AI solutions at SAP (confidential)
+
+During my final engineering internship at **SAP**, I worked on applied AI solutions for B2B sales teams, combining business discovery, software engineering and user feedback.
+
+- **AI-powered CRM — data quality & enrichment prototype:** designed and developed a CRM intelligence platform to consolidate, verify and enrich business account data, with a Python/FastAPI backend, PostgreSQL and machine-learning-assisted data-quality workflows.
+- **AI Sales & Account Planning Agent:** built an LLM-powered assistant to help Business Development Representatives (BDRs) and Account Executives prepare account plans and meeting briefs using relevant CRM context.
+
+**These were company projects. The source code, internal data, architecture details and application screenshots are not publicly available due to confidentiality obligations.** The descriptions here intentionally focus on my responsibilities and the general capabilities rather than proprietary implementation.
+
 ## Selected public projects
 
 Seven projects highlighting my interests in machine learning, optimization, software engineering, cybersecurity and hardware design.
@@ -33,7 +42,7 @@ Other areas I've explored include [reinforcement learning](https://github.com/sa
 
 ## Experience in brief
 
-- **SAP — Sales AI Engineering:** applied AI applications, CRM-related workflows, APIs, prototyping and solution demos.
+- **SAP — Sales AI Engineering:** built and demonstrated AI-assisted CRM and sales enablement solutions, from business requirements to implementation and user feedback.
 - **Generali France — Data Engineering:** data pipelines, automation, validation and analytical data models.
 - **SNCF Group — Data Engineering:** REST API integrations, geospatial datasets and data reconciliation.
 
