@@ -24,6 +24,8 @@ During my final engineering internship at **SAP**, I worked on applied AI soluti
 
 **These were company projects. The source code, internal data, architecture details and application screenshots are not publicly available due to confidentiality obligations.** The descriptions here intentionally focus on my responsibilities and the general capabilities rather than proprietary implementation.
 
+📖 [**Read the public case study (confidentiality-safe overview)**](projects/sap-applied-ai-case-study.md).
+
 ## Selected public projects
 
 Seven projects highlighting my interests in machine learning, optimization, software engineering, cybersecurity and hardware design.
