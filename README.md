@@ -26,6 +26,14 @@ During my final engineering internship at **SAP**, I worked on applied AI soluti
 
 📖 [**Read the public case study (confidentiality-safe overview)**](projects/sap-applied-ai-case-study.md).
 
+## Featured open-source engineering contribution — B2B RAG Presales Evaluation
+
+I built a **synthetic B2B presales evaluation extension** on top of [Microsoft's Azure Search OpenAI Demo](https://github.com/Azure-Samples/azure-search-openai-demo) (MIT-licensed upstream). The underlying Azure RAG application and infrastructure are Microsoft's work; **my contribution** is the original business scenario corpus, 12 structured regression cases, a Python evaluation harness with optional API integration, offline tests, a privacy-conscious HTML reporting tool and complete solution-engineering documentation.
+
+This project demonstrates how I approach customer-facing AI solutions: **identify the business question, ground answers in trusted data, test for unsupported claims, explain limitations and present results**. The fixture-based demonstration works without Azure; a live cloud deployment requires Azure resources and has not been claimed as completed.
+
+**[Explore the fork and contribution →](https://github.com/samytaleb/azure-rag-presales-demo)** · **[Technical walkthrough →](https://github.com/samytaleb/azure-rag-presales-demo/tree/main/presales_demo)**
+
 ## Selected public projects
 
 Seven projects highlighting my interests in machine learning, optimization, software engineering, cybersecurity and hardware design.
