@@ -2,7 +2,7 @@
 
 **Applied AI & Solution Engineering | LLMs · RAG · Machine Learning · APIs**
 
-I'm a final-year **Data & Computer Science engineering student at École des Mines de Saint-Étienne**, following two years of intensive mathematics and physics preparatory classes at **Lycée Saint-Louis (Paris)**.
+I'm a **graduate engineer (M.Eng. in Data & Computer Science) from École des Mines de Saint-Étienne**, with a strong foundation in mathematics and physics from two years of intensive preparatory classes at **Lycée Saint-Louis (Paris)**.
 
 I enjoy turning complex problems into **usable, measurable technical solutions** — from understanding business needs and designing architectures to developing ML pipelines, integrating APIs, building prototypes, and demonstrating outcomes to stakeholders.
 
